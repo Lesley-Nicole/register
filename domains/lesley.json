@@ -1,0 +1,11 @@
+{
+  "description": "Lesley's dev details",
+  "repo": "https://github.com/lesley-nicole",
+  "owner": {
+    "username": "lesley-nicole",
+    "email": "lesley-nicole@protonmail.com"
+  },
+  "record": {
+    "CNAME": "lesley-nicole"
+  }
+}
